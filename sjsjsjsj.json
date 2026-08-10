@@ -1,0 +1,21 @@
+{
+    "nodes": [
+        {
+            "parameters": {
+                "path": "prueba-webhook",
+                "responseMode": "onReceived",
+                "options": {}
+            },
+            "id": "webhook-prueba-1",
+            "name": "Webhook de Prueba",
+            "type": "n8n-nodes-base.webhook",
+            "typeVersion": 1,
+            "position": [
+                460,
+                300
+            ],
+            "webhookId": "webhook-test-001"
+        }
+    ],
+    "connections": {}
+}
